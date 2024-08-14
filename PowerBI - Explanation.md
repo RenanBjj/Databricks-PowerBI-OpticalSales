@@ -1,4 +1,4 @@
-Analysis Overview
+## Analysis Overview
 
 This report provides an analysis of sales performance based on customer age groups at Holy Glasses. The analysis is divided into two main pages:
 
@@ -28,6 +28,6 @@ This report provides an analysis of sales performance based on customer age grou
 
 
 
-- Conclusion
+## Conclusion
 
 This analysis provides valuable insights into the purchasing behavior of different age groups at Holy Glasses. It highlights the significant contribution of the 30-40 year age group to overall sales, while also identifying key product preferences and average spending patterns across all age categories. This information can be used to tailor marketing strategies, optimize product offerings, and better understand the customer base.
