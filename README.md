@@ -2,6 +2,7 @@
 ![Badge Databricks](https://img.shields.io/badge/Platform-Databricks-red)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Language-Python-blue)
 ![Badge SparkSQL](https://img.shields.io/badge/Language-SparkSQL-blue)
+![Badge Spark](https://img.shields.io/badge/Technology-Apache_Spark-red)
 ![Badge Pyspark](https://img.shields.io/badge/API-Pyspark-orange)
 ![Badge Pandas](https://img.shields.io/badge/Library-Pandas-orange)
 ![Badge PowerBI](https://img.shields.io/badge/BI-PowerBI-gold)
